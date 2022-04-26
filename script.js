@@ -235,11 +235,11 @@ const Projects = props => {
     React.createElement(Project, {
       title: "PedroCaxa junto a NVIDIA e ITA\xDA.",
       img:
-      "https://github.com/Hendreu/Portifilio/blob/main/1img1.png?raw=true",
+      "https://github.com/Hendreu/portifolio/blob/main/Imagens/1img1.png?raw=true",
 
       tech: "",
       link: "https://youtu.be/C_B63nHYF-M?t=370",
-      repo: "https://github.com/Hendreu/Portifilio/blob/main/Screenshot_1.png" }, /*#__PURE__*/
+      repo: "https://github.com/Hendreu/portifolio/blob/main/Imagens/1img1.png?raw=true" }, /*#__PURE__*/
 
     React.createElement("small", null, "Praticamente todo o Design feito para a live de lan\xE7amento do PedroCaxa foi feito por mim, trabalhando junto com os designers da ITA\xDA e NVIDIA"), /*#__PURE__*/
 
@@ -254,11 +254,11 @@ const Projects = props => {
     React.createElement(Project, {
       title: "LuhSetra.",
       img:
-      "https://github.com/Hendreu/Portifilio/blob/main/2img2.png?raw=true",
+      "https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true",
 
       tech: "",
       link: "https://www.youtube.com/c/luhsetra/videos",
-      repo: "https://github.com/Hendreu/Portifilio/blob/main/2img2.png?raw=true" }, /*#__PURE__*/
+      repo: "https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true" }, /*#__PURE__*/
 
     React.createElement("small", null, "Por um per\xEDodo de tempo acabei editando videos para LuhSetra."), /*#__PURE__*/
 
@@ -271,11 +271,11 @@ const Projects = props => {
     React.createElement(Project, {
       title: "SayCat.",
       img:
-      "https://github.com/Hendreu/Portifilio/blob/main/3img3.png?raw=true",
+      "https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true",
 
       tech: "",
       link: "https://www.youtube.com/watch?v=5eZKwvo47Vw&t",
-      repo: "https://github.com/Hendreu/Portifilio/blob/main/3img3.png?raw=true" }, /*#__PURE__*/
+      repo: "https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true" }, /*#__PURE__*/
 
     React.createElement("small", null, "Mesmo que tenha sido por 2 v\xEDdeos, acho legal mostrar."), /*#__PURE__*/
 
@@ -288,11 +288,11 @@ const Projects = props => {
     React.createElement(Project, {
       title: "Olkabone.",
       img:
-      "https://github.com/Hendreu/Portifilio/blob/main/4img4.png?raw=true",
+      "https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true",
 
       tech: "",
       link: "https://www.youtube.com/user/Olkabone/videos",
-      repo: "https://github.com/Hendreu/Portifilio/blob/main/4img4.png" }, /*#__PURE__*/
+      repo: "https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true" }, /*#__PURE__*/
 
     React.createElement("small", null, "Administrei por um periodo de 4 meses o canal do Olkabone."), /*#__PURE__*/
 

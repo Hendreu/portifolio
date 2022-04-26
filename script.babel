@@ -235,11 +235,11 @@ const Projects = (props) => {
           <Project
             title="PedroCaxa junto a NVIDIA e ITAÚ."
             img={
-              "https://github.com/Hendreu/Portifilio/blob/main/1img1.png?raw=true"
+              "https://github.com/Hendreu/portifolio/blob/main/Imagens/1img1.png?raw=true"
             }
             tech=""
             link="https://youtu.be/C_B63nHYF-M?t=370"
-            repo="https://github.com/Hendreu/Portifilio/blob/main/Screenshot_1.png"
+            repo="https://github.com/Hendreu/portifolio/blob/main/Imagens/1img1.png?raw=true"
           >
             <small>
               Praticamente todo o Design feito para a live de lançamento do
@@ -254,11 +254,11 @@ const Projects = (props) => {
           <Project
             title="LuhSetra."
             img={
-              "https://github.com/Hendreu/Portifilio/blob/main/2img2.png?raw=true"
+              "https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true"
             }
             tech=""
             link="https://www.youtube.com/c/luhsetra/videos"
-            repo="https://github.com/Hendreu/Portifilio/blob/main/2img2.png?raw=true"
+            repo="https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true"
           >
             <small>
               Por um período de tempo acabei editando videos para LuhSetra.
@@ -271,11 +271,11 @@ const Projects = (props) => {
           <Project
             title="SayCat."
             img={
-              "https://github.com/Hendreu/Portifilio/blob/main/3img3.png?raw=true"
+              "https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true"
             }
             tech=""
             link="https://www.youtube.com/watch?v=5eZKwvo47Vw&t"
-            repo="https://github.com/Hendreu/Portifilio/blob/main/3img3.png?raw=true"
+            repo="https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true"
           >
             <small>
               Mesmo que tenha sido por 2 vídeos, acho legal mostrar.
@@ -288,11 +288,11 @@ const Projects = (props) => {
           <Project
             title="Olkabone."
             img={
-              "https://github.com/Hendreu/Portifilio/blob/main/4img4.png?raw=true"
+              "https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true"
             }
             tech=""
             link="https://www.youtube.com/user/Olkabone/videos"
-            repo="https://github.com/Hendreu/Portifilio/blob/main/4img4.png"
+            repo="https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true"
           >
             <small>
               Administrei por um periodo de 4 meses o canal do Olkabone.
