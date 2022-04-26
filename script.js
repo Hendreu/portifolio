@@ -235,7 +235,7 @@ const Projects = props => {
     React.createElement(Project, {
       title: "PedroCaxa junto a NVIDIA e ITA\xDA.",
       img:
-      "https://github.com/Hendreu/Portifilio/blob/main/1img1.png?raw=true",
+      "https://github.com/Hendreu/portifolio/blob/main/Imagens/1img1.png?raw=true",
 
       tech: "",
       link: "https://youtu.be/C_B63nHYF-M?t=370",
@@ -254,7 +254,7 @@ const Projects = props => {
     React.createElement(Project, {
       title: "LuhSetra.",
       img:
-      "https://github.com/Hendreu/Portifilio/blob/main/2img2.png?raw=true",
+      "https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true",
 
       tech: "",
       link: "https://www.youtube.com/c/luhsetra/videos",
@@ -271,7 +271,7 @@ const Projects = props => {
     React.createElement(Project, {
       title: "SayCat.",
       img:
-      "https://github.com/Hendreu/Portifilio/blob/main/3img3.png?raw=true",
+      "https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true",
 
       tech: "",
       link: "https://www.youtube.com/watch?v=5eZKwvo47Vw&t",
@@ -288,7 +288,7 @@ const Projects = props => {
     React.createElement(Project, {
       title: "Olkabone.",
       img:
-      "https://github.com/Hendreu/Portifilio/blob/main/4img4.png?raw=true",
+      "https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true",
 
       tech: "",
       link: "https://www.youtube.com/user/Olkabone/videos",
