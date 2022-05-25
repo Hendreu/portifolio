@@ -1,5 +1,5 @@
 /***********************
-  Menu Component
+  Menu
  ***********************/
 
 const Menu = (props) => {
@@ -36,7 +36,7 @@ const Menu = (props) => {
 };
 
 /***********************
-  Nav Component
+  Nav
  ***********************/
 
 const Nav = (props) => {
@@ -63,7 +63,7 @@ const Nav = (props) => {
 };
 
 /***********************
-  Header Component
+  Header 
  ***********************/
 
 const Header = (props) => {
@@ -92,7 +92,7 @@ const Header = (props) => {
 };
 
 /***********************
-  About Component
+  sobre mim
  ***********************/
 
 const About = (props) => {
@@ -160,7 +160,7 @@ const About = (props) => {
 };
 
 /***********************
-  Project Component
+  Projeto prop
  ***********************/
 
 const Project = (props) => {
@@ -215,7 +215,7 @@ const Project = (props) => {
 };
 
 /***********************
-  Projects Component
+  Projetos
  ***********************/
 
 const Projects = (props) => {
@@ -257,7 +257,7 @@ const Projects = (props) => {
               "https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true"
             }
             tech=""
-            link="https://www.youtube.com/c/luhsetra/videos"
+            link="https://hendreu.github.io/clienteflix/"
             repo="https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true"
           >
             <small>
@@ -274,7 +274,7 @@ const Projects = (props) => {
               "https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true"
             }
             tech=""
-            link="https://www.youtube.com/watch?v=5eZKwvo47Vw&t"
+            link="https://hendreu.github.io/clienteflix/"
             repo="https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true"
           >
             <small>
@@ -291,7 +291,7 @@ const Projects = (props) => {
               "https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true"
             }
             tech=""
-            link="https://www.youtube.com/user/Olkabone/videos"
+            link="https://hendreu.github.io/clienteflix/"
             repo="https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true"
           >
             <small>
@@ -310,7 +310,7 @@ const Projects = (props) => {
 };
 
 /***********************
-  Contact Component
+  Contato
  ***********************/
 
 const Contact = (props) => {
@@ -333,24 +333,17 @@ const Contact = (props) => {
                 <i className="fas fa-circle dot" />
                 com
               </span>
-              (a caixa daqui de baixo nem sempre funciona :c).
             </p>
           </div>
           <SocialLinks />
         </div>
-        <form id="contact-form" action="#">
-          <input placeholder="Nome" name="name" type="text" required />
-          <input placeholder="Email" name="email" type="email" required />
-          <textarea placeholder="Mensagem" type="text" name="message" />
-          <input className="button" id="submit" value="Submit" type="submit" />
-        </form>
       </div>
     </section>
   );
 };
 
 /***********************
-  Footer Component
+  Footer 
  ***********************/
 
 const Footer = (props) => {
@@ -366,7 +359,7 @@ const Footer = (props) => {
 };
 
 /***********************
-  Social Links Component
+  Social 
  ***********************/
 
 const SocialLinks = (props) => {
