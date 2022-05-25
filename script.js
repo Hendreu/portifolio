@@ -81,7 +81,7 @@ const Header = props => {
 
 
     React.createElement("div", { className: "buttons" }, /*#__PURE__*/
-    React.createElement("a", { href: "#projects" }, "meu portfolio"), /*#__PURE__*/
+    React.createElement("a", { href: "https://hendreu.github.io/clienteflix/" }, "meu portfolio"), /*#__PURE__*/
     React.createElement("a", { href: "#contact", className: "cta" }, "se liga")))));
 
 
@@ -92,7 +92,7 @@ const Header = props => {
 };
 
 /***********************
-  About Component
+  Sobre
  ***********************/
 
 const About = props => {
@@ -160,7 +160,7 @@ const About = props => {
 };
 
 /***********************
-  Project Component
+  Projeto
  ***********************/
 
 const Project = props => {
@@ -215,7 +215,7 @@ const Project = props => {
 };
 
 /***********************
-  Projects Component
+  Projetos
  ***********************/
 
 const Projects = props => {
@@ -257,7 +257,7 @@ const Projects = props => {
       "https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true",
 
       tech: "",
-      link: "https://www.youtube.com/c/luhsetra/videos",
+      link: "https://hendreu.github.io/clienteflix/",
       repo: "https://github.com/Hendreu/portifolio/blob/main/Imagens/2img2.png?raw=true" }, /*#__PURE__*/
 
     React.createElement("small", null, "Por um per\xEDodo de tempo acabei editando videos para LuhSetra."), /*#__PURE__*/
@@ -274,7 +274,7 @@ const Projects = props => {
       "https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true",
 
       tech: "",
-      link: "https://www.youtube.com/watch?v=5eZKwvo47Vw&t",
+      link: "https://hendreu.github.io/clienteflix/",
       repo: "https://github.com/Hendreu/portifolio/blob/main/Imagens/3img3.png?raw=true" }, /*#__PURE__*/
 
     React.createElement("small", null, "Mesmo que tenha sido por 2 v\xEDdeos, acho legal mostrar."), /*#__PURE__*/
@@ -291,7 +291,7 @@ const Projects = props => {
       "https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true",
 
       tech: "",
-      link: "https://www.youtube.com/user/Olkabone/videos",
+      link: "https://hendreu.github.io/clienteflix/",
       repo: "https://github.com/Hendreu/portifolio/blob/main/Imagens/4img4.png?raw=true" }, /*#__PURE__*/
 
     React.createElement("small", null, "Administrei por um periodo de 4 meses o canal do Olkabone."), /*#__PURE__*/
@@ -310,7 +310,7 @@ const Projects = props => {
 };
 
 /***********************
-  Contact Component
+  Contato
  ***********************/
 
 const Contact = props => {
@@ -330,19 +330,13 @@ const Contact = props => {
 
     React.createElement("i", { className: "fas fa-at at" }), "gmail", /*#__PURE__*/
 
-    React.createElement("i", { className: "fas fa-circle dot" }), "com"), "(a caixa daqui de baixo nem sempre funciona :c).")), /*#__PURE__*/
+    React.createElement("i", { className: "fas fa-circle dot" }), "com"),)), /*#__PURE__*/
 
 
 
 
 
-    React.createElement(SocialLinks, null)), /*#__PURE__*/
-
-    React.createElement("form", { id: "contact-form", action: "#" }, /*#__PURE__*/
-    React.createElement("input", { placeholder: "Nome", name: "name", type: "text", required: true }), /*#__PURE__*/
-    React.createElement("input", { placeholder: "Email", name: "email", type: "email", required: true }), /*#__PURE__*/
-    React.createElement("textarea", { placeholder: "Mensagem", type: "text", name: "message" }), /*#__PURE__*/
-    React.createElement("input", { className: "button", id: "submit", value: "Submit", type: "submit" })))));
+ ))));
 
 
 
@@ -350,7 +344,7 @@ const Contact = props => {
 };
 
 /***********************
-  Footer Component
+  Footer
  ***********************/
 
 const Footer = props => {
@@ -366,7 +360,7 @@ const Footer = props => {
 };
 
 /***********************
-  Social Links Component
+  Social
  ***********************/
 
 const SocialLinks = props => {
@@ -396,7 +390,7 @@ const SocialLinks = props => {
 };
 
 /***********************
-  Main Component
+  Principal
  ***********************/
 
 class App extends React.Component {constructor(...args) {super(...args);_defineProperty(this, "state",
